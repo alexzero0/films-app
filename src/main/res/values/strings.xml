@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Онлайн библиотека</string>
+    <string name="auth">Авторизация</string>
+    <string name="textlogin">Введите логин</string>
+    <string name="textpassword">Введите пароль</string>
+    <string name="textbutton">Войти</string>
+
+    <string name="title_activity_second">Activity_Second</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_header_title">Имя: %s</string>
+    <string name="nav_header_subtitle">mail.letter@mail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Книги</string>
+    <string name="menu_gallery">Избранные книги</string>
+    <string name="menu_slideshow">об Авторе</string>
+
+    <string name="About">об авторе: Студент</string>
+    <string name="NameAuthor">Мишенин А.В.</string>
+    <string name="MyVersion">ver: 0.2(b)</string>
+    <string name="NameApp">Онлайн библиотека</string>
+
+</resources>
